@@ -99,10 +99,10 @@ margin-top: 2px;
     
     
     .main-section{
-        float: left;
+        /* float: left; */
         width: 100%;
-        max-width: 960px;
-        padding: 30px;
+        /* max-width: 960px; */
+        padding: 10px;
         margin-top: 130px;
         background: white;
         margin-bottom: 130px;
@@ -125,6 +125,9 @@ margin-top: 2px;
         position: relative;
         max-width: 100%;
         display:block;
+        height: auto;
+        width: auto;
+        display: inline-block;
     }
     .logos h3{
         bottom: 120px;
@@ -136,7 +139,10 @@ margin-top: 2px;
         padding: 15px;
         color: white;
         font-family: Georgia, 'Times New Roman', Times, serif;
-
+        height: auto;
+        width: auto;
+        max-width: 250px;
+        max-height: 250px;
     }
 
         img{
@@ -222,4 +228,11 @@ margin-top: 2px;
         height: 150px;
     
         
+    }
+    #passgen
+    {
+        font-size: medium;
+    }
+    li{
+        display: inline-block;
     }
