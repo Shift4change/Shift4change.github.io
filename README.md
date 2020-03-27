@@ -1,4 +1,6 @@
-# Homework2
+# My Portfolio
+[check it out](https://shift4change.github.io/)
+
  Bootstrap Portfolio.
  i created an index.html, portfolio.html and contact.html file.
 
